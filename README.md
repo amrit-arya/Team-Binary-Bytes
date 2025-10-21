@@ -2,7 +2,7 @@
 
 > *Building ideas that speak through code.*  
 
-Welcome to **Team Binary Bytes** — a crew of curious minds crafting elegant, user-centric tech solutions that blend **creativity** with **innovation**.  
+Welcome to **Team Binary Bytes** — a crew of curious minds crafting elegant, user-centric tech solutions that blend **creativity** with **innovation**....  
 
 🌐 Explore our journey → [teambinarybytes.netlify.app](https://teambinarybytes.netlify.app/)  
 
